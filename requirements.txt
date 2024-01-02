@@ -1,0 +1,7 @@
+jq
+sentence_transformers
+chromadb
+langchain
+pandas
+numpy
+matplotlib
