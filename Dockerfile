@@ -13,6 +13,7 @@ WORKDIR /app
 
 # Copiar el archivo de notebook, la carpeta y el archivo CSV al directorio de trabajo
 COPY eval_st_embedding_models_db_creados.ipynb .
+COPY demostracion_beto_st.ipynb .
 COPY vectordb/ ./vectordb/
 COPY qa_dataset_legal_filter_heuristic_curated.csv .
 
